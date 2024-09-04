@@ -3,3 +3,7 @@ Materi
 
 # Personal file
 syntax_preview.py
+
+# Personal file type
+*.pdf
+*.html
